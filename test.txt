@@ -2,3 +2,4 @@ Hello there!
 Hi, my name is Samuel. What is your name?
 My name is George. How are you doing?
 I am doing okay, thanks.
+That's cool. Where do you live?
